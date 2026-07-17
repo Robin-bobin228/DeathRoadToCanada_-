@@ -6,3 +6,21 @@
 https://github.com/Robin-bobin228/DeathRoadToCanada_-/releases/tag/Localizator
 
 распакуйте архив в папку игры с заменой и запустите через стим
+
+над русификатором работали 
+
+Marsel_Rzhavchinko большая часть перевода
+
+Евгений Камерчик (@Kamer4k) Художник переводчик спрайтов 
+
+Boopsik Bobkins (@Boopsik8) Художник переводчик и программист 
+
+Greys Meow (@VioleGreys) Переводчик файлов
+
+Отдельное спасибо 
+
+антон дефолт🐈🇺🇸 
+
+Don Das
+
+Артур Ганеев

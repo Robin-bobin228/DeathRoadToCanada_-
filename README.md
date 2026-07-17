@@ -4,3 +4,5 @@
 скачайте последнюю версию здесь 
 
 https://github.com/Robin-bobin228/DeathRoadToCanada_-/releases/tag/Localizator
+
+распакуйте архив в папку игры с заменой и запустите через стим

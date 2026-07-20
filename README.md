@@ -24,3 +24,5 @@ Greys Meow (@VioleGreys) Переводчик файлов
 Don Das
 
 Артур Ганеев
+
+вы можете поддержать меня на бусти ( https://boosty.to/mars229 ) 
